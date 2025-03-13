@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root{
+    --azul-marinho: #1B75BC;
+    --dourado:#ffc72c;
+    --vermelho:#e60012;
+    --bege:#f5e1a4;
+
+    /*fontes*/
+
+    --fonte-comun:"Poppins";
+    --fonte-destaque:"Bangers", system-ui;
+    --fonte-titulo:"Bebas Neue", sans-serif;;
+}
