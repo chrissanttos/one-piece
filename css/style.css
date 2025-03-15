@@ -13,3 +13,13 @@
     --fonte-destaque:"Bangers", system-ui;
     --fonte-titulo:"Bebas Neue", sans-serif;;
 }
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: var(--fonte-comun);
+}
+
+strong{
+    font-family: var(--fonte-destaque);
+}
