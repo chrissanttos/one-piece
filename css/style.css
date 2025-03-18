@@ -71,16 +71,26 @@ a:hover{
 }
 
 main{
-    background-color: var(--bege);
+    background-color: #AB2A25;
     max-width: 850px ;
-    margin: auto;
+    margin:auto;
+    padding-top: 20px;
 }
+
+.fundo{
+    background-image: url(https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/37901cbf-ba0c-4a6d-9f5f-f7def2e34a62/ba15842bf50cdc6ab5941697ce1599fe13beb171.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom);
+    background-size: 200px;
+    background-repeat: repeat-x;
+}
+
 
 main h1{
     padding: 20px 0 ;
+    color: white;
     text-align: center;
     font-family: var(--fonte-titulo);
     font-size: 3em;
+    text-shadow: 1px 1px 1px var(--dourado);
 }
 main p{
     font-size: 1.4em;
